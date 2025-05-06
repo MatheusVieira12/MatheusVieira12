@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Atualmente estou trabalhando em: Desenvolvimento de soluções de análise de dados e otimização de processos empresariais baseados em dados.<br><br>🤝 Busco colaborar em: Projetos de análise de dados, soluções de business intelligence e automação de relatórios.<br><br>Atualmente estou aprendendo: Microsoft Azure, com foco em soluções de dados na nuvem, serviços de machine learning e integração com Power BI.
+🛠️ Atualmente estou trabalhando em: Desenvolvimento de soluções de análise de dados e otimização de processos empresariais baseados em dados.<br><br>🤝 Busco colaborar em: Projetos de análise de dados, soluções de business intelligence e automação de relatórios.<br><br>Atualmente estou aprendendo: R, com foco em automação e criação de modelos preditivos, serviços de machine learning e integração com Power BI.
 
 
 ## 🌐 Socials:
