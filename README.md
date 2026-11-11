@@ -72,6 +72,13 @@ Desenvolvimento de workflows no n8n com agentes de IA para automatizar a coleta 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3E7CB0?style=for-the-badge)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
 ### Engenharia de Dados e Big Data
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E2F?style=for-the-badge&logo=databricks&logoColor=white)
@@ -85,12 +92,15 @@ Desenvolvimento de workflows no n8n com agentes de IA para automatizar a coleta 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 **Linguagens de consulta:** SQL e Cypher.
 
 ### Automação e Inteligência Artificial
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 Conhecimentos em automação de workflows, agentes de IA, Machine Learning e NLP.
 
@@ -99,6 +109,9 @@ Conhecimentos em automação de workflows, agentes de IA, Machine Learning e NLP
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge)
 
 ### Tecnologias Complementares
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -118,6 +131,9 @@ Conhecimentos em automação de workflows, agentes de IA, Machine Learning e NLP
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NativeBase](https://img.shields.io/badge/NativeBase-3C4A6E?style=for-the-badge)
 
 ## 📊 Estatísticas do GitHub
 
@@ -133,4 +149,3 @@ Conhecimentos em automação de workflows, agentes de IA, Machine Learning e NLP
 ---
 
 💡 Estou aberto a colaborar em projetos de análise de dados, engenharia de dados, Business Intelligence e automação.
-
